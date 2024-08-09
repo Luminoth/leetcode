@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = ["p88_merge_sorted_array"]
