@@ -1,3 +1,7 @@
 [workspace]
 resolver = "2"
-members = ["p88_merge_sorted_array"]
+members = [
+    "p22_remove_element",
+    "p26_remove_duplicates_sorted",
+    "p88_merge_sorted_array",
+]

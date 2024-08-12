@@ -3,5 +3,13 @@
 version = 3
 
 [[package]]
+name = "p22_remove_element"
+version = "0.1.0"
+
+[[package]]
+name = "p26_remove_duplicates_sorted"
+version = "0.1.0"
+
+[[package]]
 name = "p88_merge_sorted_array"
 version = "0.1.0"
